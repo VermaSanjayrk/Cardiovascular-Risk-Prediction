@@ -98,6 +98,6 @@ Train Accuracy = 85.30 & Test Accuracy = 84.07
 
 For future improvement in the model fitting for coronary heart disease, we can perform the Random Forest Classifier, XGBoost models also. Consulting medical people we can analyze the feature in proper and required manner to approach the disease cause and effects.
 
-
+# Thank You
 
 
